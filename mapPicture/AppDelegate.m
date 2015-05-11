@@ -11,9 +11,8 @@
 @interface AppDelegate ()
 
 @end
-
+BOOL APP_isLinked = NO;
 @implementation AppDelegate
-
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.

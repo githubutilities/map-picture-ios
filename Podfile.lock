@@ -1,0 +1,31 @@
+PODS:
+  - AMap3DMap (2.4.2)
+  - AMapSearch (2.4.1)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Reachability (3.1.1)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+
+DEPENDENCIES:
+  - AMap3DMap (~> 2.4.2)
+  - AMapSearch (~> 2.4.1)
+  - FMDB (~> 2.4)
+  - MKNetworkKit (~> 0.87)
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AMap3DMap: 16d8985fb67c4995eae3f41fe4e35ca26a4651ea
+  AMapSearch: 1c6a5b217e808a82369070366b323c09e2eb06c5
+  FMDB: 0efa188cf0dd1ce82c27a478cd5f5fa245308677
+  MKNetworkKit: 83e6296a8d42e98a71880424a889773654846d74
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+
+COCOAPODS: 0.35.0
